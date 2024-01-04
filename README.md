@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've been learning and coding for 6+ years since my Bachelors in Computer Science. I work as a .NET Full stack developer. I have been learning and working on MERN stack projects on the side to increase my knowledge about modern web development tech and look forward to learning even more modern frameworks and technologies.
+I've been learning and coding for 6+ years since my Bachelors in Computer Science. I work as a .NET Full stack developer and, learning and working on MERN stack projects on the side to increase my knowledge about modern web development tech and look forward to learning even more modern frameworks and technologies.
 
 *   🌍  I'm based in Hyderabad, Telangana, India
 *   ✉️  You can contact me at [nishant.kuthethur@proton.me](mailto:nishant.kuthethur@proton.me)
